@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The team was founded by SylveonDev, and all our bots are open source on Github.
 twitter_username: phoenixbot_dc
 github_username: team-custard
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -56,29 +56,26 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "First Lastname"
-#   avatar : "/assets/images/bio-photo.jpg"
-#   bio    : "My awesome biography constrained to a sentence or two goes here."
-#   links:
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+author:
+  name   : "SylveonDev"
+  avatar : "/assets/images/bio-photo-sylveondev.jpg"
+  bio    : "The founder and main developer of Team Custard."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sylveondev.xyz"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sylveondev"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sylveondev"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/phoenixbot-dc"
+      url: "https://twitter.com/phoenixbot_dc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/team-custard"
